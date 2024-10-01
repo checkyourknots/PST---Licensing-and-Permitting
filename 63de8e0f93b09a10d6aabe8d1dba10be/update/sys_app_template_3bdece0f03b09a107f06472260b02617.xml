@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_template">
+    <sys_app_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <create_app>true</create_app>
+        <flow display_value="Application Template - Pub Sector - Licenses and Permits - 2024-09-27 01:31:55">48eece0f93b09a10d6aabe8d1dba103e</flow>
+        <name>Pub Sector - Licenses and Permits</name>
+        <referenced_table>sys_app</referenced_table>
+        <snapshot>true</snapshot>
+        <source_id>cb2828bac8f8d6109477cad659f05ddb</source_id>
+        <sys_class_name>sys_app_template</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2024-09-27 01:31:55</sys_created_on>
+        <sys_id>3bdece0f03b09a107f06472260b02617</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pub Sector - Licenses and Permits</sys_name>
+        <sys_package display_value="Pub Sector - Licenses and Permits" source="x_snc_pub_sector_1">63de8e0f93b09a10d6aabe8d1dba10be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - Licenses and Permits">63de8e0f93b09a10d6aabe8d1dba10be</sys_scope>
+        <sys_update_name>sys_app_template_3bdece0f03b09a107f06472260b02617</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2024-09-27 01:31:55</sys_updated_on>
+        <type display_value="Payload &amp; Map">955f08a05b03101083f30f216581c740</type>
+        <ux_framework_component display_value="sn-application-template-wizard">1ecf9a0e28e96e12a39fd11c51397fa4</ux_framework_component>
+    </sys_app_template>
+</record_update>
