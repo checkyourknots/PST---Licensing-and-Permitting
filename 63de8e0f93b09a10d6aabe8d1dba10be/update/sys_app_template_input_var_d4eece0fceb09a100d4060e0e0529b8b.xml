@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_template_input_var">
+    <sys_app_template_input_var action="INSERT_OR_UPDATE">
+        <default/>
+        <description>Name of the application</description>
+        <flow_input_variable display_value="application_name">40eece0f93b09a10d6aabe8d1dba1060</flow_input_variable>
+        <label>Application Name</label>
+        <mandatory>true</mandatory>
+        <name>application_name</name>
+        <sys_class_name>sys_app_template_input_var</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2024-09-27 01:31:57</sys_created_on>
+        <sys_id>d4eece0fceb09a100d4060e0e0529b8b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>application_name</sys_name>
+        <sys_package display_value="Pub Sector - Licenses and Permits" source="x_snc_pub_sector_1">63de8e0f93b09a10d6aabe8d1dba10be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - Licenses and Permits">63de8e0f93b09a10d6aabe8d1dba10be</sys_scope>
+        <sys_update_name>sys_app_template_input_var_d4eece0fceb09a100d4060e0e0529b8b</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2024-09-27 01:31:57</sys_updated_on>
+        <template display_value="Pub Sector - Licenses and Permits">3bdece0f03b09a107f06472260b02617</template>
+        <type>string</type>
+    </sys_app_template_input_var>
+</record_update>

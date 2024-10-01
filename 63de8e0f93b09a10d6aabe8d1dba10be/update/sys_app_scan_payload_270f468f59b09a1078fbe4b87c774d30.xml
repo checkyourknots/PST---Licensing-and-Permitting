@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>7669e04a050e16f1e35aeef17a32b3aa4d93853c76b3f131741b30e3d773263c</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>c7de8a8b19b09a10ff1b105291e69b53</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="">!!!sys_id_39!!!</sc_cat_item><sc_category display_value="Social Benefits">b022dfeb770002103b35bfa64b5a9950</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_167!!!</sys_id><sys_mod_count/><sys_name/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/></sc_cat_item_category></record_update>]]></serialized_record>
+        <source_class>sc_cat_item_category</source_class>
+        <source_id>cb2828bac8f8d6109477cad659f05ddb</source_id>
+        <source_name>Social Benefits.</source_name>
+        <source_sys_id>af28e8ba64f8d610eace88961a89d718</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2024-09-27 01:32:43</sys_created_on>
+        <sys_id>270f468f59b09a1078fbe4b87c774d30</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sc_cat_item_category</sys_name>
+        <sys_package display_value="Pub Sector - Licenses and Permits" source="x_snc_pub_sector_1">63de8e0f93b09a10d6aabe8d1dba10be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - Licenses and Permits">63de8e0f93b09a10d6aabe8d1dba10be</sys_scope>
+        <sys_update_name>sys_app_scan_payload_270f468f59b09a1078fbe4b87c774d30</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2024-09-27 01:32:43</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

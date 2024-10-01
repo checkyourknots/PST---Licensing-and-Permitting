@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>3f466e6a111481c248883720db5b364439180b08fe0e6bca57248506b26a2976</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>c7de8a8b19b09a10ff1b105291e69b53</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="">!!!sys_id_8!!!</catalog_item><catalog_variable>IO:!!!sys_id_29!!!</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><field_message/><field_message_type>none</field_message_type><mandatory>ignore</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_28!!!</sys_id><sys_mod_count/><sys_name/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/><table/><ui_policy display_value="">!!!sys_id_12!!!</ui_policy><value/><value_action>ignore</value_action><variable>new_product_description</variable><variable_set/><visible>true</visible></catalog_ui_policy_action></record_update>]]></serialized_record>
+        <source_class>catalog_ui_policy_action</source_class>
+        <source_id>cb2828bac8f8d6109477cad659f05ddb</source_id>
+        <source_name>new_product_description</source_name>
+        <source_sys_id>6f28e8ba99f8d610755b5e74a2b15c31</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2024-09-27 01:32:02</sys_created_on>
+        <sys_id>adee824f6bb09a10f2206ec8c5aeff48</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>catalog_ui_policy_action</sys_name>
+        <sys_package display_value="Pub Sector - Licenses and Permits" source="x_snc_pub_sector_1">63de8e0f93b09a10d6aabe8d1dba10be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - Licenses and Permits">63de8e0f93b09a10d6aabe8d1dba10be</sys_scope>
+        <sys_update_name>sys_app_scan_payload_adee824f6bb09a10f2206ec8c5aeff48</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2024-09-27 01:32:02</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>
